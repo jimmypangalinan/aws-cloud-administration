@@ -54,3 +54,22 @@ Segala bentuk kegiatan yang bersentuhan langsung dengan hardware pada Hardware C
 <p align="center"><img src="./assets/03.png"></p>
 
 Pada gambar diatas kita bisa melihat apa-apa saja bisa kita lakukan pada Cloud Computing (Kolom 2-3).
+
+#### Cloud Computing Deployment Model
+
+Kita dapat membangun Cloud sendiri dengan beberapa model seperti pada gambara di bawah ini :
+
+<p align="center"><img src="./assets/04.png"></p>
+
+1. Private Cloud adalah infrastruktur cloud yang dibuat untuk penggunaan khusus oleh suatu organisasi yang terdiri dari beberapa bagian, seperti unit bisnis, dan lain-lain. Cloud ini dapat dimiliki, dikelola, dan dioperasikan oleh organisasi tersebut, oleh pihak ketiga, atau gabungan dari keduanya, bisa bersifat on maupun off-premise.
+
+2. Public cloud adalah infrastrukur cloud yang terbuka dan dapat digunakan untuk umum. Siapa saja yang memiliki akses ke internet, dapat mengakses cloud ini.
+   Contoh: GMail, Azure, Office 365, dll)
+
+3. Hybrid Cloud adalah gabungan dari dua atau lebih model infrastruktur cloud (private, community, atau public) yang tetap merupakan suatu entitas unik, namun saling terikat bersama oleh standarisasi atau kepemilikan teknologi yang memungkinkan data diakses secara portable. Hybrid cloud biasanya menjadi solusi yang digunakan enterprise-enterprise besar di dunia.
+
+4. Community cloud adalah infrastruktur cloud yang dibuat untuk penggunaan oleh lebih dari 1 organisasi yang memiliki kepentingan yang sama, misalnya mengenai regulasi, kebijakan, dan lain-lain. Infrastruktur ini dapat dimiliki, dikelola, dan dioperasikan oleh komunitas organisasi tersebut sendiri, melalui pihak ketiga, atau gabungan dari keduanya, bisa bersifat on maupun off-premise.
+
+#### Similarities Between AWS and Traditional IT
+
+<p align="center"><img src="./assets/05.png"></p>
