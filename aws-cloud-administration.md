@@ -27,4 +27,4 @@ Pada On Premise kita menggunakan Hardware sebagai Infrastructure namun pada Clou
 
 #### Hardware Computing Model :
 
-<p align="center"><img src="./assets/01.JPEG"></p>
+<p align="center"><img src="./assets/01.jpg"></p>
